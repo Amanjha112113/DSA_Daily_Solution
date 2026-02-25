@@ -5,8 +5,10 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
