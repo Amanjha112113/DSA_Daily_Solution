@@ -21,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -37,4 +38,8 @@
 | [0011-container-with-most-water](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
