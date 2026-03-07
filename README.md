@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -12,6 +13,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0015-3sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
@@ -61,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
 ## Math
