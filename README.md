@@ -33,6 +33,7 @@
 | [0152-maximum-product-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
