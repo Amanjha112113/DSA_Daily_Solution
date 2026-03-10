@@ -76,6 +76,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
