@@ -37,6 +37,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -65,6 +66,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
