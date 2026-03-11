@@ -34,6 +34,7 @@
 | [0152-maximum-product-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +130,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0724-find-pivot-index) |
