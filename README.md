@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
