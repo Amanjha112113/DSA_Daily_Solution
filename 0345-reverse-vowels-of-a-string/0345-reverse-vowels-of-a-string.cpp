@@ -14,9 +14,9 @@ public:
         int left = 0, right = n - 1;
         string v = "aeiouAEIOU";
 
-        while(left <= right) {
-            if(v.find(s[left])!=string::npos && v.find(s[right])!=string::npos){
-                swap(s[left],s[right]);
+        while(left < right) {
+            /*if(v.find(s[left])!=string::npos && v.find(s[right])!=string::npos){
+                swap(s[left], s[right]);
                 left++;
                 right--;
             }
@@ -25,7 +25,18 @@ public:
             }
             else{
                 left++;
-            }
+            }*/
+
+            while(left < right && v.find(s[left]) == string::npos)
+                left++;
+
+            while(left < right && v.find(s[right]) == string::npos)
+                right--;
+            
+            swap(s[left], s[right]);
+            left++;
+            right--;
+            
         }
         return s;
     }
