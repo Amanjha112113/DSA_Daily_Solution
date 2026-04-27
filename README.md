@@ -29,6 +29,7 @@
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -54,6 +55,7 @@
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
