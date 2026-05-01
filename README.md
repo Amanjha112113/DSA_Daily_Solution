@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0704-binary-search) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 ## Stack
 |  |
