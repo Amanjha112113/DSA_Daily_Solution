@@ -60,6 +60,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3903-smallest-stable-index-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3903-smallest-stable-index-i) |
@@ -111,6 +112,7 @@
 | [0069-sqrtx](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Stack
 |  |
 | ------- |
