@@ -116,6 +116,7 @@
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Stack
 |  |
 | ------- |
@@ -189,4 +190,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0986-interval-list-intersections) |
+## Combinatorics
+|  |
+| ------- |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 <!---LeetCode Topics End-->
