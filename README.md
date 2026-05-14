@@ -64,6 +64,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3903-smallest-stable-index-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3903-smallest-stable-index-i) |
@@ -78,6 +79,7 @@
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0525-contiguous-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
