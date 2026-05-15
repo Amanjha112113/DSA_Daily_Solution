@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0344-reverse-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 ## Trie
