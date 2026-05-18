@@ -108,6 +108,7 @@
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0525-contiguous-array) |
@@ -175,6 +176,7 @@
 | [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -201,6 +203,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Sweep Line
 |  |
