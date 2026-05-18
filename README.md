@@ -132,6 +132,7 @@
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 ## Trie
