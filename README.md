@@ -8,6 +8,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -53,6 +54,7 @@
 | [0525-contiguous-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -115,6 +117,7 @@
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
@@ -205,6 +208,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
 ## Counting
 |  |
 | ------- |
@@ -224,4 +228,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0503-next-greater-element-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
