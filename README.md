@@ -42,6 +42,7 @@
 | [0018-4sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
