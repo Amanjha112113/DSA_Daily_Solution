@@ -8,6 +8,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0206-reverse-linked-list) |
@@ -22,6 +23,7 @@
 | [0015-3sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0151-reverse-words-in-a-string) |
