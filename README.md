@@ -1,3 +1,28 @@
+# 🧠 Algorithm Journey – LeetCode Daily Progress 🚀
+
+Welcome to my **Algorithm Journey**!  
+This repository is a daily log of my commitment to solving problems on [LeetCode](https://leetcode.com/u/Amanjha112113/) as I strengthen my **DSA (Data Structures & Algorithms)** and **problem-solving** skills.
+
+---
+
+## 📅 Daily Submissions
+
+- ✅ **Problem titles & numbers**
+- 📸 **Screenshots** of accepted submissions
+- 🧩 Focus areas: Dynamic Programming, Arrays, Strings, Math, Greedy, Graphs, etc.
+
+---
+
+## 🔥 Why I'm Doing This
+
+- To stay consistent and accountable  
+- To master algorithmic thinking  
+- To prepare for coding interviews & AI/ML model integration  
+- To track personal growth and milestones  
+
+---
+
+## 📚 Progress Overview
 # DSA_Daily_Solution
 <!---LeetCode Topics Start-->
 # LeetCode Topics
