@@ -73,6 +73,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0015-3sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0088-merge-sorted-array) |
@@ -113,6 +114,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [0015-3sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
@@ -144,6 +146,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0217-contains-duplicate) |
@@ -219,6 +222,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
