@@ -236,6 +236,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -282,4 +283,8 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1046-last-stone-weight) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
