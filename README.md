@@ -91,6 +91,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0704-binary-search](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
@@ -290,4 +291,8 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3498-reverse-degree-of-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
