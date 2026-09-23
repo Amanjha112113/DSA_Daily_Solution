@@ -102,6 +102,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -141,6 +142,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,6 +166,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1189-maximum-number-of-balloons) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
@@ -214,6 +217,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Queue
 |  |
 | ------- |
@@ -257,6 +261,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0724-find-pivot-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Design
 |  |
 | ------- |
