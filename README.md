@@ -111,6 +111,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
@@ -180,6 +181,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Stack
 |  |
