@@ -44,6 +44,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0018-4sum) |
@@ -209,6 +210,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0152-maximum-product-subarray) |
@@ -233,6 +235,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0020-valid-parentheses) |
@@ -314,4 +317,8 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
