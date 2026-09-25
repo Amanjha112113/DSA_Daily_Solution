@@ -127,6 +127,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 ## Greedy
 |  |
@@ -168,6 +169,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0560-subarray-sum-equals-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
@@ -192,6 +194,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
@@ -249,6 +252,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -317,8 +321,13 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
