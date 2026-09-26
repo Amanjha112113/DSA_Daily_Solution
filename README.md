@@ -105,6 +105,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
@@ -172,6 +173,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
@@ -255,6 +257,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3498-reverse-degree-of-a-string) |
