@@ -109,6 +109,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
@@ -178,6 +179,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1189-maximum-number-of-balloons](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
@@ -188,6 +190,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -298,6 +301,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0383-ransom-note](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1189-maximum-number-of-balloons) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Sweep Line
 |  |
 | ------- |
@@ -354,4 +358,8 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Number Theory
+|  |
+| ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
