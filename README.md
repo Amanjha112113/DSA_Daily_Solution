@@ -199,6 +199,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0503-next-greater-element-ii) |
@@ -226,6 +227,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0152-maximum-product-subarray) |
@@ -255,6 +257,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0014-longest-common-prefix](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -354,6 +357,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
