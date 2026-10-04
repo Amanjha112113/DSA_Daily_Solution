@@ -140,6 +140,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0011-container-with-most-water](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 ## Binary Search
@@ -203,6 +204,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0234-palindrome-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -231,6 +233,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0053-maximum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -267,6 +270,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0383-ransom-note](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -358,6 +362,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
