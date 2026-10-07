@@ -268,6 +268,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0125-valid-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0383-ransom-note) |
@@ -353,6 +354,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 ## Manacher
 |  |
@@ -361,6 +363,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
