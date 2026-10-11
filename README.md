@@ -112,6 +112,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -388,4 +389,8 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
