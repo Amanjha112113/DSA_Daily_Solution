@@ -111,6 +111,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -140,6 +141,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -167,6 +169,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
