@@ -87,6 +87,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0238-product-of-array-except-self](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0303-range-sum-query-immutable) |
+| [0335-self-crossing](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0335-self-crossing) |
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0525-contiguous-array) |
@@ -211,6 +212,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0050-powx-n](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
+| [0335-self-crossing](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0335-self-crossing) |
 | [1486-xor-operation-in-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -448,4 +450,8 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
