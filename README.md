@@ -104,6 +104,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0986-interval-list-intersections](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -381,6 +382,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Segment Tree
 |  |
@@ -404,6 +406,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -438,6 +441,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -459,4 +463,8 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0335-self-crossing) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
