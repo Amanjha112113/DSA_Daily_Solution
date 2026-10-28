@@ -130,6 +130,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -182,6 +183,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1486-xor-operation-in-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1486-xor-operation-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -386,6 +389,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
