@@ -130,6 +130,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3904-smallest-stable-index-ii) |
@@ -183,6 +184,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1486-xor-operation-in-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1486-xor-operation-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -264,6 +266,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0053-maximum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -329,6 +332,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2409-count-days-spent-together](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -396,6 +400,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -441,10 +446,12 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -476,4 +483,5 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
