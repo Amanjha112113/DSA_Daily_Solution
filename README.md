@@ -333,6 +333,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
@@ -382,6 +383,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1046-last-stone-weight) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -484,4 +486,12 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
