@@ -271,6 +271,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0055-jump-game) |
@@ -304,6 +305,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0014-longest-common-prefix](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0125-valid-palindrome) |
@@ -407,6 +409,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0039-combination-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
@@ -425,6 +428,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0856-score-of-parentheses) |
