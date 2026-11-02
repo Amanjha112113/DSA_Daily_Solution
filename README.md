@@ -89,6 +89,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0303-range-sum-query-immutable](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0335-self-crossing](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0335-self-crossing) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0525-contiguous-array) |
@@ -147,6 +148,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0088-merge-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -229,6 +231,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0202-happy-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0202-happy-number) |
 | [0335-self-crossing](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0335-self-crossing) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
