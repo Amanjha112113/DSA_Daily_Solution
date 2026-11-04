@@ -126,6 +126,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -223,6 +224,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
@@ -238,6 +240,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2409-count-days-spent-together](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -294,6 +297,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -302,6 +306,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
 |  |
 | ------- |
@@ -400,6 +405,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [1046-last-stone-weight](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
