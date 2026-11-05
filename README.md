@@ -65,6 +65,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -108,6 +109,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1254-number-of-closed-islands) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -155,6 +157,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0948-bag-of-tokens](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
@@ -184,6 +187,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2333-minimum-sum-of-squared-difference) |
