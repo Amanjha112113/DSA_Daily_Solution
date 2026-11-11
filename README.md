@@ -183,6 +183,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Stack
 |  |
