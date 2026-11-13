@@ -131,6 +131,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
@@ -278,6 +279,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -320,16 +322,19 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## String
 |  |
 | ------- |
@@ -410,6 +415,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0503-next-greater-element-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Function
 |  |
 | ------- |
@@ -442,6 +448,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
