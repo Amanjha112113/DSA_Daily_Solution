@@ -132,6 +132,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
@@ -323,6 +324,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0219-contains-duplicate-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
@@ -390,6 +392,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Design
 |  |
 | ------- |
