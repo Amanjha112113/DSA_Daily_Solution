@@ -111,6 +111,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -250,6 +251,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -310,6 +312,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0678-valid-parenthesis-string](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -391,6 +394,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [0724-find-pivot-index](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Design
