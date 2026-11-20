@@ -134,6 +134,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -173,6 +174,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2784-check-if-array-is-good) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
@@ -321,6 +323,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3665-twisted-mirror-path-count) |
