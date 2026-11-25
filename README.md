@@ -153,6 +153,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
@@ -207,6 +208,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -439,6 +442,7 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -567,4 +571,12 @@ This repository is a daily log of my commitment to solving problems on [LeetCode
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Amanjha112113/DSA_Daily_Solution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
